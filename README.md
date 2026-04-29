@@ -69,7 +69,7 @@ OUTPUT_CSV_PATH = "path/to/volume_of_lh_hippocampus.csv"
 From the folder containing the script:
 
 ```bash
-python "sum_of_voxels copy.py"
+python "sum_of_voxels.py"
 ```
 
 When it finishes, it writes a CSV with one row per subject and columns for each hippocampal subfield count.
